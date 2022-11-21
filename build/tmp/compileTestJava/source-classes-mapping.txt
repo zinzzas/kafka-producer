@@ -1,4 +1,2 @@
 pe/producer/pub/KafkaProducerTest.java
  pe.producer.pub.KafkaProducerTest
-pe/producer/pub/MockTest.java
- pe.producer.pub.MockTest

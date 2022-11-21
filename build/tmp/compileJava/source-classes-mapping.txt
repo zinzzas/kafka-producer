@@ -1,9 +1,5 @@
 pe/producer/kafka/KafkaProducerConfig.java
  pe.producer.kafka.KafkaProducerConfig
-pe/producer/pub/KafkaProducer.java
- pe.producer.pub.KafkaProducer
-pe/producer/pub/order/domain/Tickets.java
- pe.producer.pub.order.domain.Tickets
 pe/producer/ProducerApplication.java
  pe.producer.ProducerApplication
 pe/producer/kafka/KafkaTopicConfig.java
@@ -13,3 +9,7 @@ pe/producer/pub/order/Reader/OrderReader.java
  pe.producer.pub.order.Reader.OrderReader$1
 pe/producer/pub/order/controller/OrderController.java
  pe.producer.pub.order.controller.OrderController
+pe/producer/pub/order/domain/Ticket.java
+ pe.producer.pub.order.domain.Ticket
+pe/producer/pub/KafkaProducer.java
+ pe.producer.pub.KafkaProducer
