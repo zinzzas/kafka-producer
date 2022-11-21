@@ -1,0 +1,2 @@
+# 카프카 구매 내역 메시지 전송
+GET http://localhost:8080/order/purchase/tickets

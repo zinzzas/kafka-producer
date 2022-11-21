@@ -1,4 +1,4 @@
-pe/producer/batch/KafkaProducerTest.java
- pe.producer.batch.KafkaProducerTest
-pe/producer/batch/BaseSpringBootTest.java
- pe.producer.batch.BaseSpringBootTest
+pe/producer/pub/KafkaProducerTest.java
+ pe.producer.pub.KafkaProducerTest
+pe/producer/pub/MockTest.java
+ pe.producer.pub.MockTest
